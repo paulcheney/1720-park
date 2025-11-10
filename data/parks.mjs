@@ -1,4 +1,4 @@
-const parks = [
+export const parks = [
     {
       "name": "Kakadu National Park",
       "description": "Vast Top End landscapes of wetlands, floodplains and escarpments with internationally significant Aboriginal rock art and wildlife.",
@@ -6,7 +6,7 @@ const parks = [
       "size_sq_mi": 7645.6,
       "established": "April 5, 1979",
       "url": "https://parksaustralia.gov.au/kakadu/",
-      "photo_url": "kakadu.webp",
+      "photo": "kakadu.webp",
       "rating": 5
     },
     {
@@ -16,8 +16,8 @@ const parks = [
       "size_sq_mi": 511.9,
       "established": "1958",
       "url": "https://uluru.gov.au/",
-      "photo_url": "uluru-kata.webp",
-      "rating": 5
+      "photo": "uluru-kata.webp",
+      "rating": 4
     },
     {
       "name": "Booderee National Park",
@@ -26,8 +26,8 @@ const parks = [
       "size_sq_mi": 24.6,
       "established": "1992",
       "url": "https://parksaustralia.gov.au/booderee",
-      "photo_url": "booderee.webp",
-      "rating": 5
+      "photo": "booderee.webp",
+      "rating": 3
     },
     {
       "name": "Christmas Island National Park",
@@ -36,7 +36,7 @@ const parks = [
       "size_sq_mi": 32.8,
       "established": "February 21, 1980",
       "url": "https://parksaustralia.gov.au/christmas",
-      "photo_url": "christmas.webp",
+      "photo": "christmas.webp",
       "rating": 5
     },
     {
@@ -46,8 +46,8 @@ const parks = [
       "size_sq_mi": 10.0,
       "established": "December 12, 1995",
       "url": "https://parksaustralia.gov.au/pulu-keeling",
-      "photo_url": "pulu.webp",
-      "rating": 4
+      "photo": "pulu.webp",
+      "rating": 2
     },
     {
       "name": "Norfolk Island National Park and Botanic Garden",
@@ -56,8 +56,8 @@ const parks = [
       "size_sq_mi": 2.5,
       "established": "1986",
       "url": "https://norfolkislandnationalpark.gov.au",
-      "photo_url": "norfolk.webp",
-      "rating": 5
+      "photo": "norfolk.webp",
+      "rating": 1
     }
   ]
   
