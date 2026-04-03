@@ -11,7 +11,7 @@ export const parks = [
     },
     {
       "name": "Uluru-Kata Tjuta National Park",
-      "description": "Sacred Aṉangu land featuring Uluru and the domed Kata Tjuta formations in Australia’s Red Centre; jointly managed with Traditional Owners.",
+      "description": "Sacred Anangu land featuring Uluru and the domed Kata Tjuta formations in Australia’s Red Centre; jointly managed with Traditional Owners.",
       "address": "Lasseter Highway, Uluru NT 0872, Australia",
       "size_sq_mi": 511.9,
       "established": "1958",
